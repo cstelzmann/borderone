@@ -19,9 +19,9 @@ In Capture One, find the Process Recipe tool and for "Open With" select the rena
 
 ## German:
 
-Sicherstellen, dass ImageMagick installiert ist. Während der Installation darauf achten, dass die Optiion, ImageMagick zum Pfad hinzuzufügen, angehakt ist (das ist der Standard). Download: https://imagemagick.org/script/download.php#windows
+Sicherstellen, dass ImageMagick installiert ist. Während der Installation darauf achten, dass die Option, ImageMagick zum Pfad hinzuzufügen, angehakt ist (das ist der Standard). Download: https://imagemagick.org/script/download.php#windows
 
-Die ausführbare Datei "borderone-white-50x50.exe" aus der obigen Liste herunterladen. Die Datei kopieren. Die Kopie nach dem Schema borderone-{farbe}-{dicke}.exe umbennen, z.B. border-one-white-20x20.exe. Dadurch werden weiße Ränder mit einer Dicke von 20px hinzugefügt. Durch mehrere Kopien mit unterschiedlichen Namen können verschiedene Ränder hinzugefügt werden.
+Die ausführbare Datei "borderone-white-50x50.exe" aus der obigen Liste herunterladen. Die Datei kopieren. Die Kopie nach dem Schema borderone-{farbe}-{dicke}.exe umbennen, z.B. borderone-white-20x20.exe. Dadurch werden weiße Ränder mit einer Dicke von 20px hinzugefügt. Durch mehrere Kopien mit unterschiedlichen Namen können verschiedene Ränder hinzugefügt werden.
 
 
 Hinweis: Abhängig von den Einstellungen des Datei-Explorers ist die Endung ".exe" eventuell nicht sichtbar.
