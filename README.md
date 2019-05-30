@@ -15,6 +15,6 @@ Hint: Depending on your file explorer settings, the extension ".exe" might not b
 Die ausführbare Datei herunterladen. Die Datei kopieren. Die Kopie nach dem Schema borderone-{farbe}-{dicke}.exe umbennen, z.B. border-one-white-20x20.exe. Dadurch werden weiße Ränder mit einer Dicke von 20px hinzugefügt. Durch mehrere Kopien mit unterschiedlichen Namen können verschiedene Ränder hinzugefügt werden.
 
 
-Hinweis: Abhängig von den Einstellungen de Datei-Explorers ist die Endung ".exe" eventuell nicht sichtbar.
+Hinweis: Abhängig von den Einstellungen des Datei-Explorers ist die Endung ".exe" eventuell nicht sichtbar.
 
 
