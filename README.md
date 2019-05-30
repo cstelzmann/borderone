@@ -1,6 +1,8 @@
 # borderone
 Simple tool to add borders during the CaptureOne export
 
+Idea to use a separate tool in combination with CaptureOne: https://www.youtube.com/watch?v=HXzoVK9VU3U (Michael Damböck).
+
 
 # How to use?
 ## English:
